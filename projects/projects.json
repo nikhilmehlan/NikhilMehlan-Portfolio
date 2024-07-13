@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Farmer-Assitant",
+    "desc": "AgriBot offers several powerful features to aid farmers,providing accurate and helpful answers using advanced AI, ensuring farmers get reliable information.",
+    "image": "Bot",
+    "category": "mern",
+    "links": {
+      "view": "https://farmer-ai-assistant-agri-bot.vercel.app/",
+      "code": "https://github.com/nikhilmehlan/Farmer-Ai-Assistant-AgriBot"
+    }
+  },
+  {
+    "name": "QuickBites",
+    "desc": "Your ultimate food delivery solution designed using the MERN stack. QuickBites brings delicious food to your doorstep with just a few clicks.",
+    "image": "QuickBites",
+    "category": "mern",
+    "links": {
+      "view": "https://github.com/nikhilmehlan/QuickBites",
+      "code": "https://github.com/nikhilmehlan/QuickBites"
+    }
+  },
+  {
+    "name": "SocialSphere",
+    "desc": "a comprehensive social media platform where you can perform all tasks related to social networking. Connect with friends, share updates, upload photos, and much more!",
+    "image": "SocialSphere",
+    "category": "mern",
+    "links": {
+      "view": "https://social-sphere-eta.vercel.app/",
+      "code": "https://github.com/nikhilmehlan/SocialSphere"
+    }
+  },
+  {
+    "name": "AgriLink",
+    "desc": "A transformative tool empowering farmers to sell directly to consumers while offering blockchain-based insurance for financial security.",
+    "image": "AgriLink",
+    "category": "mern",
+    "links": {
+      "view": "https://agrilink.vercel.app/",
+      "code": "https://github.com/nikhilmehlan/Agri-Link"
+    }
+  }
+]
