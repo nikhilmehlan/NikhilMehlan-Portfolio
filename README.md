@@ -7,7 +7,6 @@ Welcome to my software developer portfolio! This repository showcases a variety 
 ## Table of Contents
 
 - [About](#about)
-- [Showcase](#showcase)
 - [Technologies](#technologies)
 - [Setup](#setup)
 - [Contact](#contact)
@@ -16,21 +15,6 @@ Welcome to my software developer portfolio! This repository showcases a variety 
 
 This portfolio is a collection of my work as a software developer, highlighting my expertise in creating high-quality, efficient, and innovative software solutions. Each showcase item included here reflects my dedication to continuous learning and my passion for technology.
 
-## Showcase
-
-### Showcase Item 1: [Project/Work Name]
-- **Description**: Brief description of the project or work.
-- **Technologies Used**: List of technologies and tools used.
-- **Features**: Key features and functionalities.
-- **Link**: [Live Demo/Work Link](#)
-
-### Showcase Item 2: [Project/Work Name]
-- **Description**: Brief description of the project or work.
-- **Technologies Used**: List of technologies and tools used.
-- **Features**: Key features and functionalities.
-- **Link**: [Live Demo/Work Link](#)
-
-*(Add more showcase items as needed)*
 
 ## Technologies
 
@@ -73,8 +57,8 @@ To run any of the showcase items locally, follow these general steps:
 
 Feel free to reach out to me for any inquiries, collaborations, or just to say hello!
 
-- **Email**: your.email@example.com
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/nikhil-mehlan-90aa12253)
-- **GitHub**: [Your GitHub Profile](https://github.com/nikhilmehlan)
+- **Email**: nikhilmehlan1234@example.com
+- **LinkedIn**: [Nikhil Mehlan](https://www.linkedin.com/in/nikhil-mehlan-90aa12253)
+- **GitHub**: [Nikhil Mehlan](https://github.com/nikhilmehlan)
 
-Thank you for visiting my portfolio!
+Thank you for visiting my portfolio! Feel free o give a ⭐!!
