@@ -21,7 +21,7 @@ This portfolio is a collection of my work as a software developer, highlighting 
 This portfolio includes work developed using a variety of technologies, including but not limited to:
 
 - Frontend: HTML, CSS, JavaScript,Jquery
-- Backend: Node.js, Express
+- Backend: Node.js, Express js
 - Databases:  MongoDB
 - Tools: Git
 
