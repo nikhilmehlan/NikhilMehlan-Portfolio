@@ -16,7 +16,7 @@ Welcome to my software developer portfolio! This repository showcases a variety 
 This portfolio is a collection of my work as a software developer, highlighting my expertise in creating high-quality, efficient, and innovative software solutions. Each showcase item included here reflects my dedication to continuous learning and my passion for technology.
 
 
-## Technologies
+## Technologies-
 
 This portfolio includes work developed using a variety of technologies, including but not limited to:
 
